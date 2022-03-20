@@ -1,0 +1,4 @@
+﻿  cpp_03_20.cpp
+D:\c语言\repository\cpp_practice\cpp_03_20\cpp_03_20\cpp_03_20.cpp(38,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\c语言\repository\cpp_practice\cpp_03_20\cpp_03_20\cpp_03_20.cpp(40,27): warning C4018: “<”: 有符号/无符号不匹配
+  cpp_03_20.vcxproj -> D:\c语言\repository\cpp_practice\cpp_03_20\Debug\cpp_03_20.exe
